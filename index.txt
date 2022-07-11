@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>我的小窝</title>
+</head>
+
+<body>
+    <h1>药不能停！
+    <p></p>
+<!从这里开始>
+</body>
+
+</html>
